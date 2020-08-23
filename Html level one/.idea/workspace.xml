@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33ec5969-affc-4a6c-9503-27083965f3c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VN0VNrCwJLs1jBnBj73oas4gOD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="E:/jubayer/Python and Django Full Stack Web Developer Bootcamp/1. Course Introduction/DJANGO_COURSE_1.xx/Javascript_Level_Two" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.part3Soulution.html">
+    <configuration name="part3Soulution.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Html level one/part3Soulution.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="myscript.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/myscript.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.part3Soulution.html" />
+        <item itemvalue="Node.js.myscript.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33ec5969-affc-4a6c-9503-27083965f3c3" name="Default Changelist" comment="" />
+      <created>1577078267505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577078267505</updated>
+      <workItem from="1577078268920" duration="8896000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1577094381027">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1050/1920.304.1366.738@0.0.1920.1050" timestamp="1577094381027" />
+    <state width="1899" height="167" key="GridCell.Tab.0.bottom" timestamp="1577094382070">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.304.1366.738@0.0.1920.1050" timestamp="1577094382070" />
+    <state width="1899" height="167" key="GridCell.Tab.0.center" timestamp="1577094382070">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="167" key="GridCell.Tab.0.center/0.0.1920.1050/1920.304.1366.738@0.0.1920.1050" timestamp="1577094382070" />
+    <state width="1899" height="167" key="GridCell.Tab.0.left" timestamp="1577094382070">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="167" key="GridCell.Tab.0.left/0.0.1920.1050/1920.304.1366.738@0.0.1920.1050" timestamp="1577094382070" />
+    <state width="1899" height="167" key="GridCell.Tab.0.right" timestamp="1577094382070">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="167" key="GridCell.Tab.0.right/0.0.1920.1050/1920.304.1366.738@0.0.1920.1050" timestamp="1577094382070" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1577090347740">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050/1920.304.1366.738@0.0.1920.1050" timestamp="1577090347740" />
+  </component>
+</project>
